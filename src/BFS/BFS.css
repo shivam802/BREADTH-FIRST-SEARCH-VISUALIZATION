@@ -1,0 +1,12 @@
+body{
+    
+    background:#ece7e7;
+
+}
+canvas {
+  left: 25%;
+  right: auto;
+  bottom: auto;
+  
+position: absolute;
+  }
